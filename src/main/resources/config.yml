@@ -1,0 +1,9 @@
+#
+# xtBasics plugin
+# Programmed by x_tias, 2021
+#
+Spawn:
+  X: 0
+  Y: 100
+  Z: 0
+

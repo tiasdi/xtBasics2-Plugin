@@ -1,0 +1,5 @@
+name: xtBasics
+version: 1.0-SNAPSHOT
+main: me.tias.xtbasics.xtbasics.XtBasics
+api-version: 1.18
+authors: [ x_tias ]
